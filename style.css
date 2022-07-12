@@ -1,0 +1,51 @@
+
+#Bootstrap1, #Bootstrap2, #Bootstrap3 {
+    background-image: url("Images/cargill.png");
+    width: 26%;
+    height: 400px;
+ 
+}
+#Bootstrap1 {
+    text-align: center;
+    position: relative;
+    left: 60px;
+}
+#Bootstrap2 {
+    text-align: center;
+    position: relative;
+    left: 450px;
+    bottom: 400px;
+    
+}
+#Bootstrap3 {
+    float: right;
+    text-align: center;
+    position: relative;
+    right: 60px;
+    bottom: 801px;
+}
+.img1, .img2, .img3 {
+    width: 314px;
+}
+.but1, .but2, .but3 {
+    border: 1px solid;
+    border-radius: 5px;
+    color: white;
+    font-size: 18px;
+    padding: 10px;
+    margin: 5px 90px;
+}
+.but1 {background-color: #178A27;}
+.but1:hover {background: #449D44;}
+.but2 {background-color: #1686C1;}
+.but2:hover {background: #31B0D5;}
+.but3 {background-color: #852406;}
+.but3:hover {background: #C9302C;}
+
+#sa {
+    text-align: center;
+}
+.img01 {
+    width: 100%;
+    height: 450px;
+}
